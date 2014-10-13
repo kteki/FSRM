@@ -25,7 +25,7 @@ public void setPrice (int Price) {
         this._side = Side;
     }
 
-    public String getSymbol() {
+    public void getSymbol() {
         return this._symbol;
     }
 
