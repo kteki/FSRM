@@ -371,7 +371,11 @@
       <created>1413758015823</created>
       <updated>1413758015823</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished csv import, added order entry in source">
+      <created>1413758207264</created>
+      <updated>1413758207264</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
