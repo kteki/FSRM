@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4c2b77e-948f-4940-a031-a71607beb66d" name="Default" comment="Added mkTick">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exchange/cReader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exchange/mEngine.java" />
-      <change type="DELETED" beforePath="C:\Users\Karthik\Documents\FSRM\src\cReader.java" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Karthik\Documents\FSRM\src\mktick.java" afterPath="$PROJECT_DIR$/src/exchange/mktick.java" />
-      <change type="MOVED" beforePath="C:\Users\Karthik\Documents\FSRM\src\order.java" afterPath="$PROJECT_DIR$/src/exchange/order.java" />
-      <change type="MOVED" beforePath="C:\Users\Karthik\Documents\FSRM\src\source.java" afterPath="$PROJECT_DIR$/src/exchange/source.java" />
+    <list default="true" id="d4c2b77e-948f-4940-a031-a71607beb66d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2ad86a3d-c90d-4347-bfbe-86f08f6eb8ec" name="Rejected commit: Default" comment="Added mkTick" />
@@ -104,6 +98,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Karthik " />
         <option value="Karthik" />
       </list>
     </option>
@@ -220,7 +215,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="editor.preferences.import" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -372,12 +367,16 @@
       <created>1413241891989</created>
       <updated>1413241891989</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished csv import, added order entry in source">
+      <created>1413758015823</created>
+      <updated>1413758015823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="864" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -443,7 +442,8 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="Added order" />
     <MESSAGE value="Added mkTick" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added mkTick" />
+    <MESSAGE value="Finished csv import, added order entry in source" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished csv import, added order entry in source" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
